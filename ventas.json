@@ -1,0 +1,42 @@
+{
+    "1": {
+        "fecha": "2024-08-05",
+        "cliente": "Nicolas",
+        "productos": [
+            "Pan",
+            " Azucar"
+        ],
+        "direccion_envio": "Cordoba 1060",
+        "metodo_pago": "Tarjeta de credito"
+    },
+    "2": {
+        "fecha": "2024-06-06",
+        "cliente": "Pablo Granados",
+        "productos": [
+            "Fernet",
+            " Coca"
+        ],
+        "direccion_tienda": "Donovan 1050",
+        "metodo_pago": "Tarjeta Debito"
+    },
+    "3": {
+        "fecha": "2024-01-01",
+        "cliente": "Juasito",
+        "productos": [
+            "Papa",
+            " mandioca"
+        ],
+        "direccion_tienda": "Cordoba 1212",
+        "metodo_pago": "Efectivo"
+    },
+    "4": {
+        "fecha": "2023-05-01",
+        "cliente": "Lucho",
+        "productos": [
+            "Queso",
+            " Jamon"
+        ],
+        "direccion_entrega": "Urunday 2",
+        "metodo_pago": "Efectivo"
+    }
+}
